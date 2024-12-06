@@ -36,7 +36,7 @@ Both datasets are preprocessed, split into training, validation, and testing set
 ## **Installation**  
 Clone the repository and install the required libraries:  
 ```bash
-git clone https://github.com/yourusername/quantum-ansatz-exploration.git
+git clone https://github.com/hamzaskhan/quantum-ansatz-exploration.git
 cd quantum-ansatz-exploration
 pip install -r requirements.txt
 ```
@@ -70,7 +70,8 @@ By the end of this project, you will:
 
 ## **Visualization Example**  
 Here’s a sneak peek of what you’ll learn to visualize:  
-![Performance Comparison Example](https://via.placeholder.com/800x400?text=Insert+Your+Bar+Chart+Here)
+![peak](https://github.com/user-attachments/assets/3768d77f-6482-48a1-b995-6146d937a216)
+
 
 ---
 
